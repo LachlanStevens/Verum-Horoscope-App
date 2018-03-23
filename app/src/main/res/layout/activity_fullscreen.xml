@@ -1,0 +1,182 @@
+<!-- This nested layout contains views of its own -->
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/asdf"
+    android:background="#fff">
+    <!-- Shows an image from your drawable resources -->
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="0dp"
+        android:src="@drawable/taurus" />
+</LinearLayout>
+
+
+<!--
+<android.support.percent.PercentRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/asdf"
+    android:background="#0088cc">
+
+    <View
+        android:id="@+id/top_left"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_alignParentTop="true"
+        android:background="#ff44aacc"
+        app:layout_heightPercent="20%"
+        app:layout_widthPercent="70%" />
+
+    <View
+        android:id="@+id/top_right"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/top_left"
+        android:background="#ffe40000"
+        app:layout_heightPercent="20%"
+        app:layout_widthPercent="30%" />
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_heightPercent="80%"
+        android:layout_below="@+id/top_left">
+        <ImageView
+            android:id="@+id/bottom"
+            android:layout_width="match_parent"
+            android:src="@drawable/taurus"
+            android:layout_height="200dp"
+            app:layout_heightPercent="80%"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/bottom"
+            android:text="@string/app_name" />
+    </LinearLayout>
+</android.support.percent.PercentRelativeLayout>
+-->
+
+
+<!--
+
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0099cc"
+    tools:context="concur.verum.FullscreenActivity">
+
+-->
+
+
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc.
+-->
+
+
+    <!--<GridLayout
+        android:id="@+id/button_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:layout_gravity="center"
+        android:columnCount="3"
+        android:rowCount="4"
+        android:orientation="horizontal">
+
+        <Button android:layout_row="0" android:layout_column="0" android:background="@drawable/taurus" android:layout_columnSpan="1" android:layout_rowSpan="1" android:padding="0px" android:layout_margin="0px"></Button>
+        <Button android:layout_row="0" android:layout_column="1" android:text="123" android:padding="0px" android:layout_margin="0px"></Button>
+        <Button android:layout_row="0" android:layout_column="2" android:text="123" android:padding="0px" android:layout_margin="0px"></Button>
+
+        <Button android:layout_row="1" android:layout_column="0" android:text="123" android:padding="0px" android:layout_margin="0px"></Button>
+        <Button android:layout_row="1" android:layout_column="1" android:text="123" android:padding="0px" android:layout_margin="0px"></Button>
+        <Button android:layout_row="1" android:layout_column="2" android:text="123" android:padding="0px" android:layout_margin="0px"></Button>
+
+        <Button android:layout_row="2" android:layout_column="0" android:text="123" android:padding="0px" android:layout_margin="0px"></Button>
+        <Button android:layout_row="2" android:layout_column="1" android:text="123" android:padding="0px" android:layout_margin="0px"></Button>
+        <Button android:layout_row="2" android:layout_column="2" android:text="123" android:padding="0px" android:layout_margin="0px"></Button>
+
+        <Button android:layout_row="3" android:layout_column="0" android:text="123" android:padding="0px" android:layout_margin="0px"></Button>
+        <Button android:layout_row="3" android:layout_column="1" android:text="123" android:padding="0px" android:layout_margin="0px"></Button>
+        <Button android:layout_row="3" android:layout_column="2" android:text="123" android:padding="0px" android:layout_margin="0px"></Button>
+
+    </GridLayout> -->
+
+    <!-- This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+    <!--<FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true">
+
+        <LinearLayout
+            android:id="@+id/fullscreen_content_controls"
+            style="?metaButtonBarStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:background="@color/black_overlay"
+            android:orientation="horizontal"
+            tools:ignore="UselessParent">
+
+            <Button
+                android:id="@+id/dummy_button"
+                style="?metaButtonBarButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/dummy_button" />
+
+        </LinearLayout>
+    </FrameLayout>-->
+
+<!--
+    <GridLayout
+        android:id="@+id/asdf"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:rowCount="3"
+        android:background="@color/colorPrimary">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_rowWeight="0.3"
+            android:layout_height="wrap_content"
+            tools:layout_width="@android:dimen/dialog_min_width_major"
+            android:layout_row="0"
+            android:background="@color/black_overlay">
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_rowWeight="0.3"
+            tools:layout_width="@android:dimen/dialog_min_width_major"
+            android:layout_row="1"
+            android:background="@color/colorAccent">
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_rowWeight="0.3"
+            tools:layout_width="@android:dimen/dialog_min_width_major"
+            android:layout_row="2"
+            android:background="@drawable/taurus">
+        </LinearLayout>
+    </GridLayout>
+</FrameLayout>
+-->

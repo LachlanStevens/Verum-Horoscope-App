@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\androidSDK\Verum\app\build\intermediates\exploded-aar\com.android.support\percent\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de44758258139805d12d5d023b04f58e2010dacc">
+        <dex dex="D:\androidSDK\Verum\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-percent-23.3.0_5749083ae0c80c2c7dde5ab28e9fb7acf6e5f29f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lachie\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta3\constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="D:\androidSDK\Verum\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta3_8e2f49f00a1990a763cc83364611b1a3552d502f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidSDK\Verum\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03a8bed4b7d7f8254a0925feaf0c4b923efd709d">
+        <dex dex="D:\androidSDK\Verum\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_961c2e3482aa52ded21006112937b0faa32a8c3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidSDK\Verum\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\androidSDK\Verum\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_b12579f7a0806f1323b72fd3e5d11b4986ba81b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidSDK\Verum\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\androidSDK\Verum\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_8cc909ea5760d71d5e543637e816e90521a1a5b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidSDK\Verum\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\androidSDK\Verum\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_e637a1d6ad01292fe990bf3e76732767cf751b60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lachie\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\androidSDK\Verum\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_f4c229e35c26781ba5e6c8e88e8940cc275a40ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidSDK\Verum\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\androidSDK\Verum\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_bb7f949edc09857d649912d01f4d02b5a11c6d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidSDK\Verum\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a5e7760d6a4b6d89d83aef742e4802414b0a280">
+        <dex dex="D:\androidSDK\Verum\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2da1ac63cf305eebc59a43d2ccfea406d41f3ff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidSDK\Verum\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="D:\androidSDK\Verum\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta3_8b3f44850a86420d79ea0e2fce64f63ccc124894\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidSDK\Verum\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\androidSDK\Verum\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_11dcefa3ad92e55be43bcef9642fdae9a6c6df56\classes.dex" />
+    </item>
+
+</items>
